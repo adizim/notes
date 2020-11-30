@@ -2,7 +2,7 @@
 
 - [Programming Languages](https://www.coursera.org/learn/programming-languages)
 - [Differential Equations](https://www.udacity.com/course/differential-equations-in-action--cs222)
-- [Algorithms (Stanford)](https://www.coursera.org/specializations/algorithms
+- [Algorithms (Stanford)](https://www.coursera.org/specializations/algorithms)
 - [Algorithms (Princeton)](https://www.coursera.org/learn/algorithms-part1)
 - [Automata Theory](https://www.edx.org/course/automata-theory)
 - [Cryptography](https://www.coursera.org/learn/crypto)
